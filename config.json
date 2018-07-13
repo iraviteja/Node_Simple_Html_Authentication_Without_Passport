@@ -1,0 +1,3 @@
+{
+    "databaseUrl":"mongodb://localhost:27017/express-passport"
+}
